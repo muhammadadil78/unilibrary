@@ -1,0 +1,9 @@
+{
+  "name": "UniLibrary",
+  "short_name": "UniLibrary",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#009688",
+  "description": "UniLibrary student sign in app."
+}
